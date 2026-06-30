@@ -49,6 +49,7 @@ hermes-skills/
 
 | 贡献者 | 技能 | 说明 |
 |--------|------|------|
+| [xquik](xquik/) | [Hermes Tweet](xquik/hermes-tweet/) | 通过 Xquik 使用原生 Hermes Tweet 插件，支持 X/Twitter 搜索、读取、监控、粉丝导出和经过明确批准的操作 |
 | [yusheng](yusheng/) | [晨间简报](yusheng/morning-briefing-cron/) | 每日自动推送新闻、天气、股票简报 |
 | [yusheng](yusheng/) | [DeepSeek 每日用量简报](yusheng/deepseek-daily-briefing/) | 每日监控 DeepSeek API 余额和用量 |
 
